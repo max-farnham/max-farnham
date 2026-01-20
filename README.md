@@ -1,6 +1,6 @@
 ## Max Farnham
 
-I am a Data Science student at the University of Virginia set to graduate in 2028. 
+Data Science student at the University of Virginia set to graduate in 2028. 
 Contact: vsx8ws@virginia.edu
 
 <!--
