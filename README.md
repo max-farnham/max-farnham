@@ -1,4 +1,7 @@
-## Hi there 👋
+## Max Farnham
+
+I am a Data Science student at the University of Virginia set to graduate in 2028. 
+Contact: vsx8ws@virginia.edu
 
 <!--
 **max-farnham/max-farnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
